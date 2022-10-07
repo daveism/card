@@ -1,23 +1,27 @@
 .1_2 { 
 	overflow:hidden;
-}.e1_2 { 
+}
+.e1_2 { 
 	background-color:rgba(0, 61.00000016391277, 165.00000536441803, 1);
 	width:1098px;
 	height:648px;
 	position:absolute;
-}.e1_3 { 
+}
+.e1_3 { 
 	width:1098px;
 	height:363.33331298828125px;
 	position:absolute;
 	left:0px;
 	top:142px;
-}.e1_4 { 
+}
+.e1_4 { 
 	width:400px;
 	height:283.33331298828125px;
 	position:absolute;
 	left:40px;
 	top:40px;
-}.e1_5 { 
+}
+.e1_5 { 
 	width:400px;
 	height:283.33331298828125px;
 	position:absolute;
@@ -26,54 +30,48 @@
 	background-image:url(images/image_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e1_6 { 
+}
+.e1_6 { 
 	width:551px;
 	height:272px;
 	position:absolute;
 	left:507px;
 	top:45.666656494140625px;
-}.e1_7 { 
+}
+.e1_7 { 
 	color:rgba(255, 255, 255, 1);
 	width:550px;
-	height:44px;
-	position:absolute;
-	left:1px;
-	top:0px;
+	padding: 6px;
 	font-family:Montserrat;
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
-}.e1_8 { 
+}
+.e1_8 { 
 	color:rgba(255, 255, 255, 1);
 	width:550px;
-	height:44px;
-	position:absolute;
-	left:1px;
-	top:152px;
+	padding: 6px;
 	font-family:Montserrat;
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
-}.e1_9 { 
+}
+.e1_9 { 
 	color:rgba(255, 255, 255, 1);
 	width:550px;
-	height:44px;
-	position:absolute;
-	left:0px;
-	top:228px;
+	padding: 6px;
 	font-family:Montserrat;
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
-}.e1_10 { 
+}
+.e1_10 { 
 	color:rgba(255, 255, 255, 1);
 	width:550px;
-	height:44px;
-	position:absolute;
-	left:1px;
+	padding: 6px;
 	top:76px;
 	font-family:Montserrat;
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
-}
+}
