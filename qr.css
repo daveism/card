@@ -1,0 +1,16 @@
+.1_12 { 
+	overflow:hidden;
+}.e1_12 { 
+	width:490px;
+	height:490px;
+	position:absolute;
+}.e1_13 { 
+	width:450px;
+	height:450px;
+	position:absolute;
+	left:20px;
+	top:20px;
+	background-image:url(images/image_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
