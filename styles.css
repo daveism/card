@@ -46,6 +46,7 @@
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
+	display: block;
 }
 .e1_8 { 
 	color:rgba(255, 255, 255, 1);
@@ -55,6 +56,7 @@
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
+	display: block;
 }
 .e1_9 { 
 	color:rgba(255, 255, 255, 1);
@@ -64,6 +66,7 @@
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
+	display: block;
 }
 .e1_10 { 
 	color:rgba(255, 255, 255, 1);
@@ -74,4 +77,5 @@
 	text-align:right;
 	font-size:48px;
 	letter-spacing:0;
+	display: block;
 }
